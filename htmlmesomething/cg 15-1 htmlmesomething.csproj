@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\A-fluffy-cat-looking-funny-surprised-or-concerned.jpg" />
+    <None Include="wwwroot\Images\cat duck.jpg" />
+    <None Include="wwwroot\Images\derp.jpg" />
+    <None Include="wwwroot\Images\gentleman.jpg" />
+    <None Include="wwwroot\Images\naked.jpg" />
+    <None Include="wwwroot\Images\older.jpg" />
+    <None Include="wwwroot\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>
