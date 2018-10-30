@@ -1,0 +1,35 @@
+﻿element {
+}
+article {
+    padding: 25px;
+    margin: 50px 75px 25px 100px;
+    //border: 2px solid orange;
+    text-align: center;
+    Background-color: rgb(1, 187, 255);
+    background-position: 101%;
+    //position:absolute;
+}
+#header{
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+
+h4 {
+    font: 20px Times, serif;
+    font-weight: bold;
+}
+p{
+    font: 15px Times, serif;
+}
+
+.intros{
+    margin: 0 auto;
+    padding: 100px 0 0 0;
+    position: relative;
+    width: 685px;
+    text-align: center;
+    background-color: rgb(1, 198, 122);
+
+
+}
